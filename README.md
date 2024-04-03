@@ -1,7 +1,7 @@
 -Objectifs :<br>
 Développer le site officiel de la structure afin de promouvoir ses activités auprès d'un plus large public et ainsi élargir son influence.<br>
 Le site est codé en brut, aussi bien sur le front que sur le back office.<br>
-Le back office est assez conséquent, car j'ai été amené à développer tout un côté administratif, permettant d'accéder à un tableau de bord offrant plusieurs fonctionnalités, notamment la possibilité de modifier le contenu du site ou encore de publier de nouveaux articles qui apparaîtraient sur la page d'accuei0l du site.<br>
+Le back office est assez conséquent, car j'ai été amené à développer tout un côté administratif, permettant d'accéder à un tableau de bord offrant plusieurs fonctionnalités, notamment la possibilité de modifier le contenu du site ou encore de publier de nouveaux articles qui apparaîtraient sur la page d'accueil du site.<br>
 L'idée était que n'importe quelle personne au sein de la structure puisse mettre à jour un contenu ou en créer un nouveau.<br><br>
 
 -Fonctionnalités Front :<br>
