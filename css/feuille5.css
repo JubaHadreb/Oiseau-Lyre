@@ -1,0 +1,356 @@
+/*Debut de backoffice***************************************************************************************************************/
+
+#admin{
+
+	width: 820px;
+	margin: 0 auto;
+	margin-bottom: 30px;
+	clear: both;
+
+}
+#admin h2:first-child{
+
+	width: 487px;
+	background-image: url(../img/actualites/actualites.gif);
+	background-repeat: no-repeat;
+	height: 23px;
+	padding-left: 25px;
+	font-weight: bold;
+	text-transform: uppercase;
+	font-size: 16px;
+	color: #fff;
+	line-height: 22px;
+	margin-bottom: 35px;
+
+}
+
+#nav_admin{
+
+	width: 170px;
+	height: 800px;
+	background: rgba(70,181,223,0.6);
+	float: left;
+	border-radius: 10px;
+	overflow: hidden;
+
+}
+
+#contenu_admin{
+
+	width: 644px;
+	height: 800px;
+	background: rgba(70,181,223,0.1);
+	float: right;
+	border-radius: 10px;
+
+}
+
+#nav_admin ul li:hover{
+
+	background: rgba(70,181,223,0.5);
+
+}
+
+#nav_admin ul li a{
+
+	display: block;
+	width: 170px;
+	height: 40px;
+	text-decoration: none;
+	color: #fff;
+	font-size: 16px;
+	padding-left: 10px;
+
+}
+
+#nav_admin a img{
+
+	margin: 10px 2px 0 0;
+	float: left;
+
+}
+
+#nav_admin a span{
+
+	line-height: 37px;
+
+}
+
+#nav_admin li ul{
+
+	display: none;
+
+}
+
+#nav_admin li ul li{
+
+	height: 25px;
+
+}
+
+#nav_admin ul li ul li span{
+
+	font-size: 12px;
+	line-height: 24px;
+
+}
+
+#ajouter{
+
+	width: 644px;
+	height: 66px;
+	margin-top: 10px;
+	
+}
+
+#options{
+
+	width: 644px;
+	height: 66px;
+	margin-top: 10px;
+	
+}
+
+#ajouter a, #option1 a, #option2 span{
+
+	width: 130px;
+	height: 32px;
+	float: right;
+	margin: 0 auto;
+	margin: 12px 12px 0 0;
+	padding: 10px 0 0 5px;
+	font-size: 20px;
+	font-weight: bold;
+	color: #fff;
+	text-decoration: none;
+	display: block;
+	background: #84d5f4;
+	border: 4px solid #fff;
+	border-radius: 10px;
+
+}
+
+#option1 a{
+
+	width: 80px;
+
+}
+
+#option2 span{
+
+	width: 140px;
+	cursor: pointer;
+
+}
+
+#ajouter a:hover, #option1 a:hover, #option2 span:hover{
+
+	color: #84d5f4;
+	background: #fff;
+	border-color: #84d5f4;
+
+}
+
+#ajouter a span{
+	line-height: 18px;
+	font-size: 40px;
+	display: block;
+	float: left;
+
+}
+
+#articles h3, #ajouter h3{
+
+	width: 180px;
+	margin: 0 auto;
+	margin-bottom: 20px;
+	margin-top: 20px;
+	font-size: 18px;
+	font-weight: bold;
+	color: #46b5df;
+	clear: right;
+	
+}
+
+#articles table{
+
+	width: 620px;
+	margin: 0 auto;
+	background: #fff;
+	border-radius: 5px;
+
+}
+
+
+
+#articles table tr td{
+
+	padding-top: 10px;
+	padding: 10px 5px 10px 5px;
+  
+}
+
+#articles table tr th{
+
+	margin: 0 auto;
+
+}
+
+#articles h1{
+
+	font-weight: bold;
+	color: #46b5df;
+	line-height: 14px;
+	
+}
+
+#articles h1 a{
+
+	text-decoration: none;
+	color: #46b5df;
+
+}
+
+#articles h1 a:hover{
+
+	text-decoration: underline;
+
+}
+
+.size{
+
+	font-size: 11px;
+	line-height: 17px;
+
+}
+
+#articles .size a{
+
+	width: 80px;
+	height: 18px;
+	background: #84d5f4;
+	text-align: center;
+	color: #fff;
+	text-transform: uppercase;
+	text-decoration: none;
+	display: block;
+	
+}
+
+#articles .size a:hover{
+
+	color: #84d5f4;
+	background: #fff;
+
+}
+
+#ajouter form{
+
+	width: 600px;
+	margin: 0 auto;
+
+}
+
+#ajouter form textarea{
+
+	resize:none;
+
+}
+
+#ajouter form img{
+
+	border: 4px solid #84d5f4;
+	border-radius: 10px;
+
+}
+
+#ajouter form ul{
+
+	height: 545px;
+
+}
+
+#ajouter form span{
+
+	font-weight: bold;
+	color: #46b5df;
+
+}
+
+#ajouter form .vignette{
+
+	margin: 12px 20px 0px 0;
+	width: 160px;
+	float: left;
+
+}
+
+#ajouter form .checkbox{
+
+	margin: 0 auto;
+	display: block;
+
+}
+
+#submit{
+
+	clear: left;
+	display: block;
+
+}
+
+#cibles{
+
+	width: 520px;
+	height: 28px;
+	margin: 0 auto;
+	margin-bottom: 10px;
+
+}
+
+
+#cibles li a{
+
+	float: left;
+	margin-right: 10px;
+	font-weight: bold;
+	text-decoration: none;
+	color: #fff;
+	background: #84d5f4;
+	padding: 5px 10px;
+	border: 3px solid #fff;
+	border-radius: 5px;
+
+}
+
+#cibles li a:hover{
+
+	color: #84d5f4;
+	background: #fff;
+	border-color: #84d5f4;
+	
+}
+
+#articles #h3_mail{
+
+	margin-top: 96px;
+
+}
+
+#articles h1.nom_benevole{
+
+	color: #f00;
+
+}
+
+
+
+
+
+
+
+
+
+
+
+/*Fin de backoffice***************************************************************************************************************/

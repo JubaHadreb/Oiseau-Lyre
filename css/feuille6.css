@@ -1,0 +1,167 @@
+/*Debut de la galerie***************************************************************************************************************/
+
+#page_sup{
+
+	width: 820px;
+	margin: 0 auto;
+	margin-bottom: 30px;
+
+}
+
+#page_sup h2:first-child{
+
+	width: 487px;
+	background-image: url(../img/actualites/actualites.gif);
+	background-repeat: no-repeat;
+	height: 23px;
+	padding-left: 25px;
+	font-weight: bold;
+	text-transform: uppercase;
+	font-size: 16px;
+	color: #fff;
+	line-height: 22px;
+	margin-bottom: 35px;
+
+}
+
+#page_inf{
+
+	width: auto;
+	background: #84d5f4;
+	height: 310px;
+	
+
+}
+
+#dossiers{
+
+	width: 774px;
+	height: 143px;
+	margin: 0 auto;
+
+}
+
+#dossiers .fleche{
+
+    border:none;
+    text-decoration:none;
+	background: transparent;
+	margin-top: 28px;
+	opacity: .4;
+	-webkit-transition: opacity 1s ease; 
+	-moz-transition: opacity 1s ease; 
+	-ms-transition: opacity 1s ease; 
+	-o-transition: opacity 1s ease; 
+	transition: opacity 1s ease;
+	
+}
+
+#dossiers .fleche:hover{
+
+	opacity: 1;
+
+}
+
+#dossiers .fleche:first-child{
+
+	float: left;
+	margin-right: 20px;
+
+}
+
+#dossiers .fleche:last-child{
+
+	margin-left: 20px;
+	float: left;
+
+}
+
+#dossiers ul{
+
+	/*width: 602px;*/
+	float:left;	
+	margin-top: 28px;
+
+}
+
+#dossiers li{
+
+	width: 147px;
+	float: left;
+	position: relative;
+	opacity: 0.4;
+	-webkit-transition: opacity 1s ease; 
+	-moz-transition: opacity 1s ease; 
+	-ms-transition: opacity 1s ease; 
+	-o-transition: opacity 1s ease; 
+	transition: opacity 1s ease;
+
+}
+
+#dossiers .dossier_actif:hover{
+
+	opacity: 1;
+
+}
+
+
+
+#dossiers li p{
+
+	width: 80px;
+	position: absolute;
+	left: 25px;
+	top: 35px;
+	font-family: Calibri, Verdana, Arial, sans-serif;
+	font-weight: bold;
+	text-align: center;
+	color: white;
+	
+
+}
+
+#lightbox{
+
+	width: 820px;
+	margin: 0 auto;
+}
+
+#lightbox #photos li{
+
+	float: left;
+	border: 2px solid #fff;
+	margin: 16px;
+
+}
+
+#lightbox #photos li a{
+
+	display: block;
+	width: 152px;
+	height: 101px;
+
+}
+
+#lightbox #photos .image_inactif{
+
+	width: 152px;
+	height: 101px;
+
+}
+
+#lightbox #nav_photos {
+
+	width: 110px;
+	clear: left;
+	margin: 0 auto;
+	
+}
+
+#lightbox #nav_photos li{
+
+	float: left;
+	margin-right: 10px;
+
+}
+
+/*Fin de la galerie***************************************************************************************************************/

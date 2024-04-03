@@ -1,0 +1,276 @@
+/*Debut des activités***************************************************************************************************************/
+
+#page_sup{
+
+	width: 820px;
+	margin: 0 auto;
+	margin-bottom: 30px;
+
+}
+
+#page_activites h2:first-child{
+
+	width: 487px;
+	background-image: url(../img/activites/activites.gif);
+	background-repeat: no-repeat;
+	height: 23px;
+	padding-left: 25px;
+	font-weight: bold;
+	text-transform: uppercase;
+	font-size: 16px;
+	color: #fff;
+	line-height: 22px;
+	margin-bottom: 35px;
+
+}
+
+#presentation_activites p{
+
+	width: 820px;
+	font-family: Calibri, Verdana, Arial, sans-serif;
+	font-size: 14px;
+	margin-bottom: 10px;
+	line-height: 16px;
+
+}
+
+#presentation_activites p span{
+
+	color: #94d60a;
+
+}
+
+#presentation_activites .intro{
+
+	font-weight: bold;
+	font-size: 16px;
+
+}
+
+#page_inf{
+
+	width: auto;
+	margin: 0 auto;
+
+}
+
+#themes{
+
+	width: 820px;
+	margin: 0 auto;
+
+}
+
+#nav_themes{
+	
+	width: 542px;
+	margin: 0 auto;
+	height: 80px;
+
+}
+
+#nav_themes li{
+
+	width: 125px;
+	height: 50px;
+	float: left;
+	text-align: center;
+	font-weight: bold;
+	background: #c9ea84;
+	border-radius: 16px 16px 0 0;
+	padding-top: 30px;
+	color: #fff;
+	cursor: pointer;
+
+}
+
+#nav_themes li:first-child{
+
+	padding-top: 20px;
+	height: 60px;
+	background: #b4e253;
+
+}
+
+#nav_themes li:last-child{
+
+	padding-top: 20px;
+	height: 60px;
+
+}
+
+#nav_themes li:nth-child(-n+3){
+
+	margin-right: 14px;
+
+}
+
+#nav_themes li:first-letter{
+
+	text-transform: capitalize;
+
+}
+
+#nav_themes #bibliotheque{
+
+	background: #c9ea84;
+
+}
+
+#nav_themes li span{
+
+	
+	width: 109px;
+	padding-left: 8px;
+	text-align: center;
+	float: left;
+
+}
+
+#nav_themes li:nth-child(4) span{
+
+	width: 118px;
+	padding-left: 3px;
+
+}
+
+#nav_themes li span:first-letter{
+
+	text-transform: capitalize;
+
+}
+
+#nav_themes li:hover{
+
+	text-shadow:
+	#b4e253 2px 2px 2px,
+	#b4e253 -2px 2px 2px,
+	#b4e253 -2px -2px 2px,
+	#b4e253 2px -2px 2px;
+
+}
+
+#partie_activites{
+
+	width: auto;
+	background: #b4e253;
+	height: 406px;
+
+}
+
+#contenu_activites{
+
+	width: 820px;
+	margin: 0 auto;
+
+}
+
+#nav_activites{
+
+	width: 125px;
+	float: left;
+	margin: 15px 25px 0 0;
+	
+}
+
+#nav_activites li{
+
+	width: 123px;
+	height: 20px;
+	text-align: center;
+	font-weight: bold;
+	background: #b4e253;
+	border: 2px solid #fff;
+	border-radius: 8px;
+	padding-top: 8px;
+	margin: 10px 0 10px 0;
+	color: #fff;
+	cursor: pointer;	
+	
+}
+
+#nav_activites li:first-child{
+
+	background: #fff;
+	color: #b4e253;
+	
+}
+
+#texte_image{
+
+	margin: 0 auto;
+	float: left;
+	font-family: Calibri, Verdana, Arial, sans-serif;
+	font-size: 14px;
+	font-weight: bold;
+	color: #fff;
+	margin-top: 25px;
+
+}
+
+#texte_activites{
+
+	width: 333px;
+	float: left;
+
+}
+
+#texte_activites h3 img{
+
+	float: left;
+	padding-right: 6px;
+
+}
+
+#texte_activites h3 p{
+
+	font-size: 16px;
+	padding-top: 12px;
+
+}
+
+#texte_activites ul{
+
+	clear: left;
+	list-style: initial;
+	margin-left: 49px;
+	margin-bottom: 15px;
+	margin-top: 12px;
+
+}
+
+#texte_activites ul li{
+
+	margin-bottom: 3px;
+	line-height: 14px;
+	text-shadow:
+
+}
+
+#texte_activites div img{
+
+	float: left;
+
+}
+
+#texte_activites #attention p{
+
+	color: #f00;
+	line-height: 44px;
+
+}
+
+#image_activites{
+
+	width: 337px;
+	float: left;
+
+}
+
+#image_activites img{
+
+	float: right;
+
+}
+
+/*Fin des activités***************************************************************************************************************/
